@@ -1,0 +1,9 @@
+{
+  "name": "Geometria",
+  "version": "1.0.0",
+  "description": "Fitness website",
+  "repository": {
+      "type": "git",
+      "url": "https://https://github.com/imohenry/Geometria"
+    }
+}
